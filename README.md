@@ -15,7 +15,7 @@ Olá, sou a Gabryelle!
 </pre>
 <hr>
 
-### Idiomas e Ferramentas 🛠 
+### Linguagens e Ferramentas 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
