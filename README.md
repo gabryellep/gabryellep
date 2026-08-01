@@ -8,15 +8,19 @@
 </h1>
 
 <p align="center">
-  <strong>Python • Dados • Inteligência Artificial</strong>
+  <strong>Ciência de Dados • Inteligência Artificial • Engenharia de Software</strong>
 </p>
 
 <p align="center">
   Graduanda em <strong>Inteligência Artificial na Universidade Federal de Goiás (UFG)</strong>,
-  desenvolvendo aplicações full-stack, APIs, produtos orientados a dados e soluções de IA aplicadas a problemas reais.
+  com interesse e experiência prática em análise de dados, engenharia de dados,
+  Machine Learning, NLP e desenvolvimento de produtos orientados por dados.
 </p>
 
 <p align="center">
+  <a href="https://gabryelle-parente-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-Ver%20projetos-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio"/>
+  </a>
   <a href="https://www.linkedin.com/in/gabryelle-parente-0b1189326">
     <img src="https://img.shields.io/badge/LinkedIn-Gabryelle%20Parente-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -29,12 +33,21 @@
 
 ## Sobre mim
 
-- Desenvolvimento de **aplicações full-stack**, APIs REST e integrações entre frontend e backend.
-- Experiência prática com **Python, SQL, FastAPI, PostgreSQL, React e Next.js**.
-- Projetos envolvendo **Machine Learning, NLP, sistemas de recomendação e análise de dados**.
-- Uso de **testes automatizados, Docker, migrations, GitHub Actions e CI/CD**.
-- Interesse em produtos digitais com impacto real, privacidade e uso responsável de Inteligência Artificial.
-- Em busca de oportunidades de **estágio em Engenharia de Software, Dados ou IA**.
+Desenvolvo projetos que conectam **dados, Inteligência Artificial e Engenharia de Software**, atuando desde a preparação e modelagem dos dados até análises, modelos de Machine Learning, APIs e interfaces de produto.
+
+Tenho interesse especial em oportunidades nas áreas de **Ciência de Dados, Análise de Dados, Engenharia de Dados, Machine Learning e Engenharia de IA**.
+
+Minha experiência prática inclui:
+
+- preparação, limpeza, validação e análise exploratória de dados;
+- modelagem relacional e analítica com SQL e PostgreSQL;
+- construção de pipelines e camadas de dados;
+- criação de indicadores, dashboards e visualizações;
+- desenvolvimento de modelos de Machine Learning e NLP;
+- sistemas de recomendação, matching explicável e RAG;
+- APIs e aplicações full-stack orientadas por dados;
+- testes automatizados, Docker, GitHub Actions e CI/CD;
+- documentação de resultados, limitações e decisões técnicas.
 
 ---
 
