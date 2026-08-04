@@ -13,8 +13,9 @@
 
 <p align="center">
   Graduanda em <strong>Inteligência Artificial na Universidade Federal de Goiás (UFG)</strong>,
-  com interesse e experiência prática em análise de dados, engenharia de dados,
-  Machine Learning, NLP e desenvolvimento de produtos orientados por dados.
+  com experiência prática no desenvolvimento backend com Python, APIs REST,
+  aplicações full-stack, bancos de dados, pipelines de dados e soluções de
+  Machine Learning e NLP.
 </p>
 
 <p align="center">
